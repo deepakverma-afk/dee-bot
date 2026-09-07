@@ -14,7 +14,7 @@ slack slash commands
 ## Commands
 /dee-help
 /dee-trivia
-/dee-answer A
+/dee-answer [A/B/C/D]
 /dee-score
 /dee-leaderboard
 
